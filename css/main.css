@@ -16,7 +16,7 @@ body{
 
 .task-list{
 	width: 88px;
-	min-height: 300px;
+	min-height: 200px;
 	background: blue;
 	box-shadow: 2px 2px 0px #ddd;
 	margin-top: 40px;
